@@ -1,3 +1,4 @@
+
 h2{
   color:brown
 }
@@ -5,6 +6,24 @@ h2{
 h4{
   background-color:blanchedalmond
 }
+
+body{
+  font-family:"Avenir Next";
+}
+
+.header{
+  background-color:aqua
+}
+
+.main{
+  background-color:azure
+}
+
+.footer{
+  background-color:bisque
+}
+
+
 
 h5{
   color:brown;
@@ -14,6 +33,7 @@ h5{
 h6{
   font-size: 30px;
 }
+
 
 .aaa{
   color:aqua
